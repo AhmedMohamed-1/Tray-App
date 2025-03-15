@@ -42,8 +42,7 @@ If your system does not have an `E:` drive, the service will fail to start. Modi
    `MonitoringFolderService/bin/Debug/`
 3. Locate **TrayApp.exe**
 4. **Run TrayApp.exe** manually for the first time.
-5. (Optional) To start TrayApp automatically with Windows:
-   - Copy **TrayApp.exe** to `C:\Users\YourUsername\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
+5. The TrayApp will now **start automatically** every time you turn on your PC.
 
 ---
 
