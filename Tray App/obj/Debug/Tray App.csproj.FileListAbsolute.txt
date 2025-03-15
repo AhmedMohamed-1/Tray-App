@@ -1,0 +1,35 @@
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\Tray App.exe.config
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\Tray App.exe
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\Tray App.pdb
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\System.ValueTuple.dll
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\obj\Debug\Tray App.csproj.AssemblyReference.cache
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\obj\Debug\Tray_App.TrayApp.resources
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\obj\Debug\Tray_App.Properties.Resources.resources
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\obj\Debug\Tray App.csproj.GenerateResource.cache
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\obj\Debug\Tray App.csproj.CoreCompileInputs.cache
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\obj\Debug\Tray App.csproj.Up2Date
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\obj\Debug\Tray App.exe
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\obj\Debug\Tray App.pdb
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\obj\Debug\Tray App.csproj.SuggestedBindingRedirects.cache
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\obj\Debug\Tray App.exe.config
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\System.Diagnostics.EventLog.dll
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\System.Security.Principal.Windows.dll
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\System.ServiceProcess.ServiceController.dll
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\ja\Microsoft.Win32.TaskScheduler.resources.dll
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\pl\Microsoft.Win32.TaskScheduler.resources.dll
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\ru\Microsoft.Win32.TaskScheduler.resources.dll
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\sv\Microsoft.Win32.TaskScheduler.resources.dll
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\tr\Microsoft.Win32.TaskScheduler.resources.dll
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\zh-Hant\Microsoft.Win32.TaskScheduler.resources.dll
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\Tray App.exe.manifest
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\bin\Debug\Tray App.application
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\obj\Debug\Tray App.exe.manifest
+E:\Ahmed\Visual Studio Community Projects\Windows Services\Tray App\obj\Debug\Tray App.application

@@ -1,0 +1,37 @@
+﻿Installing assembly 'E:\Ahmed\Visual Studio Community Projects\MonitoringFolderService\bin\Debug\MonitoringFolderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Ahmed\Visual Studio Community Projects\MonitoringFolderService\bin\Debug\MonitoringFolderService.exe
+   logfile = E:\Ahmed\Visual Studio Community Projects\MonitoringFolderService\bin\Debug\MonitoringFolderService.InstallLog
+Installing service TrayAppService...
+Service TrayAppService has been successfully installed.
+Creating EventLog source TrayAppService in log Application...
+Committing assembly 'E:\Ahmed\Visual Studio Community Projects\MonitoringFolderService\bin\Debug\MonitoringFolderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Ahmed\Visual Studio Community Projects\MonitoringFolderService\bin\Debug\MonitoringFolderService.exe
+   logfile = E:\Ahmed\Visual Studio Community Projects\MonitoringFolderService\bin\Debug\MonitoringFolderService.InstallLog
+Uninstalling assembly 'E:\Ahmed\Visual Studio Community Projects\MonitoringFolderService\bin\Debug\MonitoringFolderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Ahmed\Visual Studio Community Projects\MonitoringFolderService\bin\Debug\MonitoringFolderService.exe
+   logfile = E:\Ahmed\Visual Studio Community Projects\MonitoringFolderService\bin\Debug\MonitoringFolderService.InstallLog
+Removing EventLog source MonitoringFolderService.
+Warning: The source MonitoringFolderService is not registered on the local machine.
+Service MonitoringFolderService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\Ahmed\Visual Studio Community Projects\MonitoringFolderService\bin\Debug\MonitoringFolderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Ahmed\Visual Studio Community Projects\MonitoringFolderService\bin\Debug\MonitoringFolderService.exe
+   logfile = E:\Ahmed\Visual Studio Community Projects\MonitoringFolderService\bin\Debug\MonitoringFolderService.InstallLog
+Installing service MonitoringFolderService...
+Service MonitoringFolderService has been successfully installed.
+Creating EventLog source MonitoringFolderService in log Application...
+Committing assembly 'E:\Ahmed\Visual Studio Community Projects\MonitoringFolderService\bin\Debug\MonitoringFolderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Ahmed\Visual Studio Community Projects\MonitoringFolderService\bin\Debug\MonitoringFolderService.exe
+   logfile = E:\Ahmed\Visual Studio Community Projects\MonitoringFolderService\bin\Debug\MonitoringFolderService.InstallLog

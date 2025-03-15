@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Ahmed\\Visual Studio Community Projects\\MonitoringFolderService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3D346B-59CB-4DFF-8D1A-C387824A6BDC}|MonitoringFolderService.csproj|E:\\Ahmed\\Visual Studio Community Projects\\MonitoringFolderService\\monitoringfolderserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3D346B-59CB-4DFF-8D1A-C387824A6BDC}|MonitoringFolderService.csproj|solutionrelative:monitoringfolderserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3D346B-59CB-4DFF-8D1A-C387824A6BDC}|MonitoringFolderService.csproj|e:\\ahmed\\visual studio community projects\\monitoringfolderservice\\monitoringfolderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3D346B-59CB-4DFF-8D1A-C387824A6BDC}|MonitoringFolderService.csproj|solutionrelative:monitoringfolderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3D346B-59CB-4DFF-8D1A-C387824A6BDC}|MonitoringFolderService.csproj|E:\\Ahmed\\Visual Studio Community Projects\\MonitoringFolderService\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1D3D346B-59CB-4DFF-8D1A-C387824A6BDC}|MonitoringFolderService.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonitoringFolderService.cs",
+              "DocumentMoniker": "E:\\Ahmed\\Visual Studio Community Projects\\MonitoringFolderService\\MonitoringFolderService.cs",
+              "RelativeDocumentMoniker": "MonitoringFolderService.cs",
+              "ToolTip": "E:\\Ahmed\\Visual Studio Community Projects\\MonitoringFolderService\\MonitoringFolderService.cs",
+              "RelativeToolTip": "MonitoringFolderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T02:09:37.964Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Ahmed\\Visual Studio Community Projects\\MonitoringFolderService\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "E:\\Ahmed\\Visual Studio Community Projects\\MonitoringFolderService\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-15T02:10:10.172Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonitoringFolderServiceInstaller.cs",
+              "DocumentMoniker": "E:\\Ahmed\\Visual Studio Community Projects\\MonitoringFolderService\\MonitoringFolderServiceInstaller.cs",
+              "RelativeDocumentMoniker": "MonitoringFolderServiceInstaller.cs",
+              "ToolTip": "E:\\Ahmed\\Visual Studio Community Projects\\MonitoringFolderService\\MonitoringFolderServiceInstaller.cs",
+              "RelativeToolTip": "MonitoringFolderServiceInstaller.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T02:10:32.411Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
