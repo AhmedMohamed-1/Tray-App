@@ -47,24 +47,7 @@ If your system does not have an `E:` drive, the service will fail to start. Modi
 ---
 
 ### **2️⃣ Installing MonitoringFolderService (Windows Service)**
-#### 📌 **Method 1: Using SC Command**
-1. **Download & Extract** the service folder.
-2. Navigate to:  
-   `MonitoringFolderService/bin/Debug/`
-3. Locate **MonitoringFolderService.exe**
-4. Open **Command Prompt as Administrator** (Press `Win + R`, type `cmd`, and press `Ctrl + Shift + Enter`).
-5. Run the following command to install the service:
-   ```sh
-   sc create MonitoringFolderService binPath= "C:\Path\To\MonitoringFolderService.exe" start= auto
-   ```
-   *(Replace `C:\Path\To\` with the actual directory path.)*
-6. Start the service manually for the first time:
-   ```sh
-   sc start MonitoringFolderService
-   ```
-7. The service will now **start automatically** every time you turn on your PC.
-
-#### 📌 **Method 2: Using InstallUtil**
+#### 📌 **Using InstallUtil**
 1. **Open Command Prompt as Administrator**.
 2. Navigate to the .NET Framework directory:
    ```sh
