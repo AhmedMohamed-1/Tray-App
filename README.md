@@ -1,7 +1,7 @@
 # **TrayApp & MonitoringFolderService**
 
 ## 📌 **Overview**  
-**TrayApp** is a lightweight system tray application designed to work alongside **MonitoringFolderService**, a Windows Service for automated file monitoring and logging. The service runs in the background, ensuring persistent and reliable operation without user interaction.  
+**TrayApp** is a lightweight system tray application designed to work alongside **MonitoringFolderService**, a Windows Service for automated folder monitoring and logging. The service runs in the background, ensuring persistent and reliable operation without user interaction.  
 
 You can also use **MonitoringFolderService** as a standalone service without **TrayApp**. It will function independently, logging all monitored events to the log folder specified in `App.config`. However, without the app, you will not receive real-time notifications.
 
