@@ -8,7 +8,7 @@ You can also use **MonitoringFolderService** as a standalone service without **T
 ---
 
 ## ✨ **Features**
-- 📂 **Automated File Monitoring** – Tracks file changes in real-time.
+- 📂 **Automated Folder Monitoring** – Tracks folder changes in real-time, detecting additions and deletions.
 - 📜 **Event Logging** – Logs system events directly to a file.
 - 🖥 **Runs in Background** – Operates silently without requiring user interaction.
 - 🔄 **Auto-Start** – The service starts automatically with Windows.
